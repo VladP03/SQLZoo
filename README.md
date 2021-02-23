@@ -1,7 +1,6 @@
 https://sqlzoo.net/wiki/SQL_Tutorial
 
-Problems from SQLZoo
-
+Links:
 1. https://sqlzoo.net/wiki/SELECT_basics
 2. https://sqlzoo.net/wiki/SELECT_from_WORLD_Tutorial
 3. https://sqlzoo.net/wiki/SELECT_from_Nobel_Tutorial
